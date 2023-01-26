@@ -1,2 +1,22 @@
 
 /* Your CSS Code here. */
+.content{
+    color:blueviolet;
+    padding-left: 20px;
+}
+#mov{
+    padding-left: 50px;
+    color:rgb(85, 0, 255);
+    
+}
+#rating{
+    padding-left: 8px;
+    font-style: italic;
+}
+#date{
+    padding-left: 8px;
+    font-style: italic;
+}
+.rat{
+    padding-top: 20px;
+}
